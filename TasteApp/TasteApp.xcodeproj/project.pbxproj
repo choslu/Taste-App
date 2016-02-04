@@ -1,0 +1,384 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		839861D71C633A70008D53D3 /* SF-UI-Display-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861C21C633A70008D53D3 /* SF-UI-Display-Black.otf */; };
+		839861D81C633A70008D53D3 /* SF-UI-Display-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861C31C633A70008D53D3 /* SF-UI-Display-Bold.otf */; };
+		839861D91C633A70008D53D3 /* SF-UI-Display-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861C41C633A70008D53D3 /* SF-UI-Display-Heavy.otf */; };
+		839861DA1C633A70008D53D3 /* SF-UI-Display-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861C51C633A70008D53D3 /* SF-UI-Display-Light.otf */; };
+		839861DB1C633A70008D53D3 /* SF-UI-Display-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861C61C633A70008D53D3 /* SF-UI-Display-Medium.otf */; };
+		839861DC1C633A70008D53D3 /* SF-UI-Display-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861C71C633A70008D53D3 /* SF-UI-Display-Regular.otf */; };
+		839861DD1C633A70008D53D3 /* SF-UI-Display-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861C81C633A70008D53D3 /* SF-UI-Display-Semibold.otf */; };
+		839861DE1C633A70008D53D3 /* SF-UI-Display-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861C91C633A70008D53D3 /* SF-UI-Display-Thin.otf */; };
+		839861DF1C633A70008D53D3 /* SF-UI-Display-Ultralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861CA1C633A70008D53D3 /* SF-UI-Display-Ultralight.otf */; };
+		839861E01C633A70008D53D3 /* SF-UI-Text-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861CB1C633A70008D53D3 /* SF-UI-Text-Bold.otf */; };
+		839861E11C633A70008D53D3 /* SF-UI-Text-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861CC1C633A70008D53D3 /* SF-UI-Text-BoldItalic.otf */; };
+		839861E21C633A70008D53D3 /* SF-UI-Text-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861CD1C633A70008D53D3 /* SF-UI-Text-Heavy.otf */; };
+		839861E31C633A70008D53D3 /* SF-UI-Text-HeavyItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861CE1C633A70008D53D3 /* SF-UI-Text-HeavyItalic.otf */; };
+		839861E41C633A70008D53D3 /* SF-UI-Text-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861CF1C633A70008D53D3 /* SF-UI-Text-Light.otf */; };
+		839861E51C633A70008D53D3 /* SF-UI-Text-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861D01C633A70008D53D3 /* SF-UI-Text-LightItalic.otf */; };
+		839861E61C633A70008D53D3 /* SF-UI-Text-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861D11C633A70008D53D3 /* SF-UI-Text-Medium.otf */; };
+		839861E71C633A70008D53D3 /* SF-UI-Text-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861D21C633A70008D53D3 /* SF-UI-Text-MediumItalic.otf */; };
+		839861E81C633A70008D53D3 /* SF-UI-Text-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861D31C633A70008D53D3 /* SF-UI-Text-Regular.otf */; };
+		839861E91C633A70008D53D3 /* SF-UI-Text-RegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861D41C633A70008D53D3 /* SF-UI-Text-RegularItalic.otf */; };
+		839861EA1C633A70008D53D3 /* SF-UI-Text-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861D51C633A70008D53D3 /* SF-UI-Text-Semibold.otf */; };
+		839861EB1C633A70008D53D3 /* SF-UI-Text-SemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 839861D61C633A70008D53D3 /* SF-UI-Text-SemiboldItalic.otf */; };
+		83DED4071C6332F300EC745A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DED4061C6332F300EC745A /* AppDelegate.swift */; };
+		83DED4091C6332F300EC745A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DED4081C6332F300EC745A /* ViewController.swift */; };
+		83DED40C1C6332F300EC745A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83DED40A1C6332F300EC745A /* Main.storyboard */; };
+		83DED40E1C6332F400EC745A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83DED40D1C6332F400EC745A /* Assets.xcassets */; };
+		83DED4111C6332F400EC745A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83DED40F1C6332F400EC745A /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		839861C21C633A70008D53D3 /* SF-UI-Display-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Black.otf"; sourceTree = "<group>"; };
+		839861C31C633A70008D53D3 /* SF-UI-Display-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Bold.otf"; sourceTree = "<group>"; };
+		839861C41C633A70008D53D3 /* SF-UI-Display-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Heavy.otf"; sourceTree = "<group>"; };
+		839861C51C633A70008D53D3 /* SF-UI-Display-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Light.otf"; sourceTree = "<group>"; };
+		839861C61C633A70008D53D3 /* SF-UI-Display-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Medium.otf"; sourceTree = "<group>"; };
+		839861C71C633A70008D53D3 /* SF-UI-Display-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Regular.otf"; sourceTree = "<group>"; };
+		839861C81C633A70008D53D3 /* SF-UI-Display-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Semibold.otf"; sourceTree = "<group>"; };
+		839861C91C633A70008D53D3 /* SF-UI-Display-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Thin.otf"; sourceTree = "<group>"; };
+		839861CA1C633A70008D53D3 /* SF-UI-Display-Ultralight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Ultralight.otf"; sourceTree = "<group>"; };
+		839861CB1C633A70008D53D3 /* SF-UI-Text-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Bold.otf"; sourceTree = "<group>"; };
+		839861CC1C633A70008D53D3 /* SF-UI-Text-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-BoldItalic.otf"; sourceTree = "<group>"; };
+		839861CD1C633A70008D53D3 /* SF-UI-Text-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Heavy.otf"; sourceTree = "<group>"; };
+		839861CE1C633A70008D53D3 /* SF-UI-Text-HeavyItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-HeavyItalic.otf"; sourceTree = "<group>"; };
+		839861CF1C633A70008D53D3 /* SF-UI-Text-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Light.otf"; sourceTree = "<group>"; };
+		839861D01C633A70008D53D3 /* SF-UI-Text-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-LightItalic.otf"; sourceTree = "<group>"; };
+		839861D11C633A70008D53D3 /* SF-UI-Text-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Medium.otf"; sourceTree = "<group>"; };
+		839861D21C633A70008D53D3 /* SF-UI-Text-MediumItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-MediumItalic.otf"; sourceTree = "<group>"; };
+		839861D31C633A70008D53D3 /* SF-UI-Text-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Regular.otf"; sourceTree = "<group>"; };
+		839861D41C633A70008D53D3 /* SF-UI-Text-RegularItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-RegularItalic.otf"; sourceTree = "<group>"; };
+		839861D51C633A70008D53D3 /* SF-UI-Text-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-Semibold.otf"; sourceTree = "<group>"; };
+		839861D61C633A70008D53D3 /* SF-UI-Text-SemiboldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Text-SemiboldItalic.otf"; sourceTree = "<group>"; };
+		83DED4031C6332F300EC745A /* TasteApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TasteApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		83DED4061C6332F300EC745A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		83DED4081C6332F300EC745A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		83DED40B1C6332F300EC745A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		83DED40D1C6332F400EC745A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		83DED4101C6332F400EC745A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		83DED4121C6332F400EC745A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		83DED4001C6332F300EC745A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		839861C11C633A70008D53D3 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				839861C21C633A70008D53D3 /* SF-UI-Display-Black.otf */,
+				839861C31C633A70008D53D3 /* SF-UI-Display-Bold.otf */,
+				839861C41C633A70008D53D3 /* SF-UI-Display-Heavy.otf */,
+				839861C51C633A70008D53D3 /* SF-UI-Display-Light.otf */,
+				839861C61C633A70008D53D3 /* SF-UI-Display-Medium.otf */,
+				839861C71C633A70008D53D3 /* SF-UI-Display-Regular.otf */,
+				839861C81C633A70008D53D3 /* SF-UI-Display-Semibold.otf */,
+				839861C91C633A70008D53D3 /* SF-UI-Display-Thin.otf */,
+				839861CA1C633A70008D53D3 /* SF-UI-Display-Ultralight.otf */,
+				839861CB1C633A70008D53D3 /* SF-UI-Text-Bold.otf */,
+				839861CC1C633A70008D53D3 /* SF-UI-Text-BoldItalic.otf */,
+				839861CD1C633A70008D53D3 /* SF-UI-Text-Heavy.otf */,
+				839861CE1C633A70008D53D3 /* SF-UI-Text-HeavyItalic.otf */,
+				839861CF1C633A70008D53D3 /* SF-UI-Text-Light.otf */,
+				839861D01C633A70008D53D3 /* SF-UI-Text-LightItalic.otf */,
+				839861D11C633A70008D53D3 /* SF-UI-Text-Medium.otf */,
+				839861D21C633A70008D53D3 /* SF-UI-Text-MediumItalic.otf */,
+				839861D31C633A70008D53D3 /* SF-UI-Text-Regular.otf */,
+				839861D41C633A70008D53D3 /* SF-UI-Text-RegularItalic.otf */,
+				839861D51C633A70008D53D3 /* SF-UI-Text-Semibold.otf */,
+				839861D61C633A70008D53D3 /* SF-UI-Text-SemiboldItalic.otf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
+		83DED3FA1C6332F300EC745A = {
+			isa = PBXGroup;
+			children = (
+				83DED4051C6332F300EC745A /* TasteApp */,
+				83DED4041C6332F300EC745A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		83DED4041C6332F300EC745A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				83DED4031C6332F300EC745A /* TasteApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		83DED4051C6332F300EC745A /* TasteApp */ = {
+			isa = PBXGroup;
+			children = (
+				83DED4061C6332F300EC745A /* AppDelegate.swift */,
+				83DED4081C6332F300EC745A /* ViewController.swift */,
+				83DED40A1C6332F300EC745A /* Main.storyboard */,
+				83DED40D1C6332F400EC745A /* Assets.xcassets */,
+				83DED40F1C6332F400EC745A /* LaunchScreen.storyboard */,
+				83DED4121C6332F400EC745A /* Info.plist */,
+				839861C11C633A70008D53D3 /* fonts */,
+			);
+			path = TasteApp;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		83DED4021C6332F300EC745A /* TasteApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 83DED4151C6332F400EC745A /* Build configuration list for PBXNativeTarget "TasteApp" */;
+			buildPhases = (
+				83DED3FF1C6332F300EC745A /* Sources */,
+				83DED4001C6332F300EC745A /* Frameworks */,
+				83DED4011C6332F300EC745A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TasteApp;
+			productName = TasteApp;
+			productReference = 83DED4031C6332F300EC745A /* TasteApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		83DED3FB1C6332F300EC745A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Christopher Oslund";
+				TargetAttributes = {
+					83DED4021C6332F300EC745A = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = 83DED3FE1C6332F300EC745A /* Build configuration list for PBXProject "TasteApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 83DED3FA1C6332F300EC745A;
+			productRefGroup = 83DED4041C6332F300EC745A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				83DED4021C6332F300EC745A /* TasteApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		83DED4011C6332F300EC745A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				83DED4111C6332F400EC745A /* LaunchScreen.storyboard in Resources */,
+				839861D91C633A70008D53D3 /* SF-UI-Display-Heavy.otf in Resources */,
+				839861DD1C633A70008D53D3 /* SF-UI-Display-Semibold.otf in Resources */,
+				839861E21C633A70008D53D3 /* SF-UI-Text-Heavy.otf in Resources */,
+				839861DC1C633A70008D53D3 /* SF-UI-Display-Regular.otf in Resources */,
+				839861E81C633A70008D53D3 /* SF-UI-Text-Regular.otf in Resources */,
+				839861E01C633A70008D53D3 /* SF-UI-Text-Bold.otf in Resources */,
+				839861DA1C633A70008D53D3 /* SF-UI-Display-Light.otf in Resources */,
+				839861E31C633A70008D53D3 /* SF-UI-Text-HeavyItalic.otf in Resources */,
+				839861E71C633A70008D53D3 /* SF-UI-Text-MediumItalic.otf in Resources */,
+				839861D81C633A70008D53D3 /* SF-UI-Display-Bold.otf in Resources */,
+				839861DB1C633A70008D53D3 /* SF-UI-Display-Medium.otf in Resources */,
+				839861EB1C633A70008D53D3 /* SF-UI-Text-SemiboldItalic.otf in Resources */,
+				839861E11C633A70008D53D3 /* SF-UI-Text-BoldItalic.otf in Resources */,
+				839861DF1C633A70008D53D3 /* SF-UI-Display-Ultralight.otf in Resources */,
+				839861EA1C633A70008D53D3 /* SF-UI-Text-Semibold.otf in Resources */,
+				839861E61C633A70008D53D3 /* SF-UI-Text-Medium.otf in Resources */,
+				83DED40E1C6332F400EC745A /* Assets.xcassets in Resources */,
+				839861E91C633A70008D53D3 /* SF-UI-Text-RegularItalic.otf in Resources */,
+				839861E41C633A70008D53D3 /* SF-UI-Text-Light.otf in Resources */,
+				83DED40C1C6332F300EC745A /* Main.storyboard in Resources */,
+				839861DE1C633A70008D53D3 /* SF-UI-Display-Thin.otf in Resources */,
+				839861E51C633A70008D53D3 /* SF-UI-Text-LightItalic.otf in Resources */,
+				839861D71C633A70008D53D3 /* SF-UI-Display-Black.otf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		83DED3FF1C6332F300EC745A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				83DED4091C6332F300EC745A /* ViewController.swift in Sources */,
+				83DED4071C6332F300EC745A /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		83DED40A1C6332F300EC745A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				83DED40B1C6332F300EC745A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		83DED40F1C6332F400EC745A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				83DED4101C6332F400EC745A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		83DED4131C6332F400EC745A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		83DED4141C6332F400EC745A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		83DED4161C6332F400EC745A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TasteApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.chrisoslund.TasteApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		83DED4171C6332F400EC745A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TasteApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.chrisoslund.TasteApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		83DED3FE1C6332F300EC745A /* Build configuration list for PBXProject "TasteApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83DED4131C6332F400EC745A /* Debug */,
+				83DED4141C6332F400EC745A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		83DED4151C6332F400EC745A /* Build configuration list for PBXNativeTarget "TasteApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				83DED4161C6332F400EC745A /* Debug */,
+				83DED4171C6332F400EC745A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 83DED3FB1C6332F300EC745A /* Project object */;
+}
